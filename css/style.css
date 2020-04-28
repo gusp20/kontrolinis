@@ -1,0 +1,36 @@
+header{
+    background-color: #D61D34;
+}
+header h1{
+    color: #7C74FC;
+    padding-left: 50px;
+}
+.nav{
+    background-color: #DB1DC3;
+}
+.nav li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.nav li a{
+    color: #EC6473;
+}
+
+article{
+    background-color: #8AA21D;
+}
+
+article h2{
+    color: #AF86A6;
+    padding-left: 50px;
+}
+
+footer{
+    margin-right: 20px;
+    background-color: #49D4AF;
+    text-align: right;
+}
+footer .btn.btn-primary{
+    color: #73C214;
+}
